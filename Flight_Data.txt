@@ -1,0 +1,19 @@
+Atlanta to Distance Fare
+Baltimore 568 219
+Boston 933 222
+Dallas 720 249
+Denver 1190 308
+Detroit 602 249
+Kansas City 683 141
+Las Vegas 1719 252
+Miami 589 229
+Memphis 327 183
+Minneapolis 894 209
+New Orleans 419 199
+New York 749 248
+Okla City 749 301
+Orlando 392 238
+Philadelphia 657 205
+St Louis 461 232
+Salt Lake City 1556 371
+Seattle 2150 343
