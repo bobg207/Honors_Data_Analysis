@@ -1,4 +1,4 @@
-First Name, Last Name, Position, Team, Completions, Attempts, Yards, TDs Ints, Comp%, Rating
+First Last Position Team Comps Atmpts Yds TDs Ints Comp% Rating
 
 Colt McCoy QB CLE  135 222 1576    6   9   60.8%   74.5
 Josh Freeman QB TB 291 474 3451    25  6   61.4%   95.9
